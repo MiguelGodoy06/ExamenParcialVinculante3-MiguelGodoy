@@ -84,3 +84,5 @@ Entrega:
 Código fuente en C++ que implemente la solución al problema.
 Diagrama de flujo que represente el cronograma de ejecución de las tareas.
 ¡Buena suerte y que la optimización esté de su lado!
+## Explicación Código
+La explicación de cada parte del código he decidido situarla mediante comentarios dentro del propio código que explica parte a parte lo que he hecho.
