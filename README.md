@@ -1,6 +1,6 @@
 # Examen Parcial 3 Vinculante Miguel Godoy
 ## Enclace Repositorio
-https://github.com/MiguelGodoy06/ExamenParcial3-MiguelGodoy.git
+https://github.com/MiguelGodoy06/ExamenParcialVinculante3-MiguelGodoy.git
 ## Descripción del Ejercicio
 Este proyecto implementa un sistema en C++ para gestionar y optimizar tareas asignadas a diferentes actores, asegurando que se completen dentro de un plazo de 100 minutos, mediante la creación de tareas, asignación a actores y evaluación del tiempo total necesario.
 ## Enunciado Ejercicio
